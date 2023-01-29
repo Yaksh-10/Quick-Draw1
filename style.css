@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,700&display=swap');
+body{
+    background-image: linear-gradient(rgb(255, 196, 70),orange);
+}
+#score{
+    font-size: 25px;
+    margin-left: 1300px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 1300px;
+    font-family: 'Ubuntu', sans-serif;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+#show_sketch{
+    float: right;   
+}
